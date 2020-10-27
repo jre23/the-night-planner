@@ -23,9 +23,9 @@ I am reminded of my evenings tasks and cocktails to make.
 
 ## GitHub Repo and Deployment
 
-[GitHub repo](https://github.com/jre23/BreakoutRoom_17)
+[GitHub repo](https://github.com/jre23/the-night-planner)
 
-[Deployed on GitHub pages](https://jre23.github.io/BreakoutRoom_17)
+[Deployed on GitHub pages](https://jre23.github.io/the-night-planner)
 
 ## Screenshots
 
